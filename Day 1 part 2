@@ -1,0 +1,35 @@
+Basically, all scripting languages are programming languages. The theoretical difference between the two is that scripting languages do no longer require the compilation step and are instead interpreted. For instance, typically, a C program wishes to be compiled earlier than jogging while generally, a scripting language like JavaScript or PHP need no longer be compiled.   
+
+Generally, compiled packages run quicker than interpreted programs due to the fact they may be first converted local system code. Also, compilers examine and examine the code most effective once, and file the mistakes together that the code would possibly have, but the interpreter will read and analyze the code statements on every occasion it meets them and halts at that very instance if there's some error. In exercise, the distinction among the 2 is getting blurred owing to advanced computation competencies of the current hardware and advanced coding practices.   
+
+Another point to be referred to is that at the same time as classifying a language as scripting language or programming language, the surroundings on which it'd execute need to be considered. The purpose why that is important is that we are able to layout an interpreter for C language and use it as a scripting language, and on the equal time, we will design a compiler for JavaScript and use it as a non-scripting(compiled language). A stay example of that is V8, the JavaScript engine of Google Chrome, which compiles the JavaScript code into system code, rather than interpreting it.   
+
+Some scripting languages historically used without an specific compilation step are JavaScript, PHP, Python, VBScript.   
+
+Some programming languages historically used with an explicit compilation step are C, C++.   
+
+Applications of Scripting Languages : 1. To automate sure tasks in a application 2. Extracting information from a facts set 3. Less code intensive as compared to conventional programming languages  
+
+ Applications of Programming Languages : 1. They normally run internal a discern application like scripts 2. More compatible whilst integrating code with mathematical fashions three. Languages like JAVA can be compiled after which used on any platform   Please write comments if you discover some thing wrong, otherwise you need to percentage greater records approximately the subject discussed above
+
+Let us see the variations in a tabular shape -:
+
+ 	Scripting Language	Programming Language
+1.	A scripting language is a language that makes use of a naive method to bring codes to a runtime surroundings	A Programming language is a language that's utilized by humans to navigate their communique with computers. 
+2.	These are made for a particular runtime environment.	
+Programming languages are of three sorts -:
+
+low-degree Programming language
+
+Middle-level Programming language
+
+High-level Programming language
+
+three.	They are used to create dynamic internet packages	Programming languages are used to write computer programs.
+4.	Scripting languages comprise one-of-a-kind libraries	They are excessive-velocity languages.
+Five.	Example -: Bash, Ruby, Python	Example -: C++, Java, PHPHigh-stage
+6.	Scripting languages can be without difficulty ported among diverse working systems.	Programming languages are translation loose languages
+7.	These languages calls for a number.	These languages are self executable.
+8.	Do not create a .Exe record.	These generate .Exe files.
+Nine.	Most of the scripting languages are interpreted language.	Most of the programming languages are compiled languages.
+10. 	All the scripting languages are programming languages.	All the programming languages aren't scripting languages.
