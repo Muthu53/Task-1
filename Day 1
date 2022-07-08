@@ -1,0 +1,15 @@
+Statically typed languages
+A language is statically typed if the form of a variable is thought at bring together time. For a few languages which means that you because the programmer ought to specify what kind each variable is; different languages (e.G.: Java, C, C++) offer a few shape of kind inference, the capability of the type gadget to deduce the sort of a variable (e.G.: OCaml, Haskell, Scala, Kotlin).
+
+The fundamental benefit here is that each one sorts of checking can be performed via the compiler, and consequently a number of trivial insects are stuck at a totally early stage.
+
+Examples: C, C++, Java, Rust, Go, Scala
+
+Dynamically typed languages
+A language is dynamically typed if the kind is related to run-time values, and now not named variables/fields/and so on. This approach which you as a programmer can write a little quicker because you do now not ought to specify kinds whenever (unless using a statically-typed language with type inference).
+
+Examples: Perl, Ruby, Python, PHP, JavaScript, Erlang
+
+Most scripting languages have this feature as there's no compiler to do static type-checking besides, however you may discover your self trying to find a trojan horse this is due to the interpreter misinterpreting the form of a variable. Luckily, scripts have a tendency to be small so bugs have no longer so many places to hide.
+
+Most dynamically typed languages do will let you offer type data, but do no longer require it. One language that is presently being evolved, Rascal, takes a hybrid technique permitting dynamic typing inside capabilities but implementing static typing for the feature signature.
