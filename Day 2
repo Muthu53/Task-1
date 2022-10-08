@@ -2,3 +2,11 @@ Document Object: The report item represent a web web page that is loaded in the 
 Syntax:
 
 document.property_name;
+
+
+Window Object: The window item is the topmost item of the DOM hierarchy. It represents a browser window or body that presentations the contents of the webpage. Whenever a window appears at the display screen to display the contents of the document, the window object is created.
+
+
+Syntax:
+
+window.property_name;
