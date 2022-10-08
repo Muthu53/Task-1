@@ -1,5 +1,4 @@
-Document Object: The report item constitute an internet page this is loaded within the browser. By gaining access to the report item, we can access the detail in the HTML page. With the help of report items, we can upload dynamic content material to our internet page. The record object may be accessed with a window.Record or just document.
-
+Document Object: The report item represent a web web page that is loaded in the browser. By getting access to the record object, we are able to get entry to the element inside the HTML web page. With the help of document objects, we will upload dynamic content to our web page. The record object may be accessed with a window.File or just record.
 Syntax:
 
-report.Property_name;
+document.property_name;
